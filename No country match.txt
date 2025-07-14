@@ -1,0 +1,19 @@
+France,Central Europe,ACT-6220
+Canada,Americas,ACT-5110
+Austria,Southern Europe,ACT-6220
+Italy,Southern Europe,ACT-6220
+Netherlands,Northern Europe,ACT-6220
+Switzerland,Central Europe,ACT-6220
+United Kingdom,Central Europe,ACT-6220
+Sweden,Northern Europe,ACT-6220
+Taiwan,Asia Pacific,ACT-5110
+Korea,Asia Pacific,ACT-5110
+China,Asia Pacific,ACT-5110
+Australia,Asia Pacific,ACT-5110
+Belgium,Central Europe,ACT-6220
+Denmark,Northern Europe,ACT-6220
+Spain,Southern Europe,ACT-6220
+Mexico,Americas,ACT-5110
+Brazil,Americas,ACT-5110
+Finland,Northern Europe,ACT-6220
+Singapore,Asia Pacific,ACT-5110
