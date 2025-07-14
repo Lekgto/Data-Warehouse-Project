@@ -1,6 +1,6 @@
 # 🏭 Data Warehouse Project – Maker Inc. (ETL with SSIS)
 
-This project demonstrates a fully functional **ETL pipeline** using **SQL Server Integration Services (SSIS)** to load a dimensional data warehouse for a fictional manufacturing company, **Maker Inc.** It was completed as part of the **CSID6853 – Data Warehousing** course, with a final mark of **92%**.
+This project demonstrates a fully functional **ETL pipeline** using **SQL Server Integration Services (SSIS)** to load a dimensional data warehouse for a fictional manufacturing company, **Maker Inc.** It was completed as part of the **CSID6853 – Data Warehousing** course, with a final mark of **91%**.
 
 ## 📁 Project Overview
 
